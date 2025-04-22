@@ -1,5 +1,19 @@
-
 {
-  "welcome": "Bienvenue sur notre site Web!",
-  "about": "Ceci est une page multilingue créée avec Next.js."
+  "welcome": "Bienvenue sur notre site multilingue!",
+  "about": "Nous proposons du contenu en plusieurs langues pour un public mondial.",
+  "Definition": "L'internationalisation (i18n) est le processus de conception d'un logiciel afin qu'il puisse être facilement adapté à différentes langues et cultures sans nécessiter de changements importants dans le code sous-jacent. C'est l'étape de préparation qui rend la localisation (l'adaptation du logiciel pour un lieu spécifique) possible. L'abréviation \"i18n\" provient du nombre de lettres entre le premier \"i\" et le \"n\" dans \"internationalisation\".",
+  "features": [
+    {
+      "title": "Performance rapide",
+      "description": "Optimisé pour la vitesse et la fiabilité."
+    },
+    {
+      "title": "Contenu localisé",
+      "description": "Disponible en plusieurs langues."
+    },
+    {
+      "title": "Conception conviviale",
+      "description": "UI propre et intuitive."
+    }
+  ]
 }

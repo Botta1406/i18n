@@ -1,5 +1,19 @@
-
 {
-  "welcome": "Welcome to our website!",
-  "about": "This is a multilingual page created with Next.js."
+  "welcome": "Welcome to our multilingual site!",
+  "about": "We offer content in multiple languages for a global audience.",
+  "Definition": "Definition : Internationalization (i18n) is the process of designing software so it can be easily adapted for different languages and cultures without requiring significant changes to the underlying code. It's the preparation stage that makes localization (adapting the software for a specific locale) possible. The \"i18n\" abbreviation comes from the number of letters between the first \"i\" and the \"n\" in \"internationalization\". change this into fr and te",
+  "features": [
+    {
+      "title": "Fast Performance",
+      "description": "Optimized for speed and reliability."
+    },
+    {
+      "title": "Localized Content",
+      "description": "Available in multiple languages."
+    },
+    {
+      "title": "User-Friendly Design",
+      "description": "Clean and intuitive UI."
+    }
+  ]
 }
